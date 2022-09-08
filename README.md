@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hristov11
-- 👀 I’m interested in data analysis, python, R
+- 👀 I’m interested in data analysis, SQL, python, R
 - 🌱 I’m currently learning data analysis, python
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me hristovpython@gmail.com
