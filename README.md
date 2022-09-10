@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hristov11
-- 👀 I’m interested in data analysis, SQL, python, R
-- 🌱 I’m currently learning data analysis, python
-- 💞️ I’m looking to collaborate on data analysis projects
+- 👀 I’m interested in Data Analytics, SQL, Python, R
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Data Analytics Projects
 - 📫 How to reach me hristovpython@gmail.com
 
 <!---
