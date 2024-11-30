@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hristov35
+- 👋 Hi, I’m @hristo35
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Express.js
 - 💞️ I’m looking to collaborate on interesting Projects
